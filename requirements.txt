@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+opencv-python
+pillow
+matplotlib
+python-dotenv
+google-generativeai
+reportlab
+qrcode
